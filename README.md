@@ -1,6 +1,6 @@
 # Arsip Digital
 
-**Copyright © [Nama Kamu]**
+**Copyright © Achmad Diky Setiawan**
 
 ---
 
